@@ -1,0 +1,7 @@
+- id: pytest
+  description: This hook uses py.test to run Python unit tests
+  name: pytest
+  entry: pytest
+  language: python
+  files: \.py$
+  args: []
